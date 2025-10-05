@@ -1,8 +1,8 @@
 # **Welcome to GDG on Campus GCTC**
 
-Grow | Create | Teach | Connect
+                                                                                          Grow | Create | Teach | Connect
 
-Grow with peers | Create projects | Teach what you learn | Connect Globally.
+                                                                      Grow with peers | Create projects | Teach what you learn | Connect Globally.
 
 
 GDG on Campus — GCTC is a student-led community focused on collaborative learning in software and cloud technologies. Our mission is to turn classroom concepts into working projects through peer teaching, guided workshops, and mentorship.
@@ -25,7 +25,7 @@ Boost Your Career: Build portfolio-ready projects, gain interview insights, and 
 
 Just click the JOIN button, once that’s done-
 
-[WhatsApp] (https://chat.whatsapp.com/DrwYlONdN7hCPb82iRkrCc?mode=wwt)
+[WhatsApp] (https://chat.whatsapp.com/DrwYlONdN7hCPb82iRkrCc?mode=wwt 'Whatsapp Link')
 
 [LinkedIn] (https://www.linkedin.com/company/gdgoc-gctc/)
 
