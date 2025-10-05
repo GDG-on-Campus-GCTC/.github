@@ -11,13 +11,13 @@ GDG on Campus — GCTC is a student-led community focused on collaborative learn
 
 ### 🌱Why join us?
 
-Inclusive & Open: Whether you’re a beginner or an expert, there’s a space for you here.
+1. Inclusive & Open: Whether you’re a beginner or an expert, there’s a space for you here.
+   
+2. Teach & Grow: Share what you know, mentor peers, and build leadership skills.
 
-Teach & Grow: Share what you know, mentor peers, and build leadership skills.
+3. Build Together: Team up on real projects and hack-nights
 
-Build Together: Team up on real projects and hack-nights
-
-Boost Your Career: Build portfolio-ready projects, gain interview insights, and get noticed by industry professionals.
+4. Boost Your Career: Build portfolio-ready projects, gain interview insights, and get noticed by industry professionals.
 
 
 
