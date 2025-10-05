@@ -25,7 +25,7 @@ Boost Your Career: Build portfolio-ready projects, gain interview insights, and 
 
 Just click the JOIN button, once that’s done-
 
-[WhatsApp] (https://chat.whatsapp.com/DrwYlONdN7hCPb82iRkrCc?mode=wwt 'Whatsapp Link')
+[WhatsApp] (https://chat.whatsapp.com/DrwYlONdN7hCPb82iRkrCc?mode=wwt)
 
 [LinkedIn] (https://www.linkedin.com/company/gdgoc-gctc/)
 
